@@ -96,3 +96,7 @@ java -jar target/lab6-0.0.1-SNAPSHOT.jar
 ```
 http://localhost:8080/
 ```
+
+## Порядок работы с приложением
+
+![Название скриншота](admin.jpg)
