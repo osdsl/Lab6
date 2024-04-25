@@ -143,9 +143,10 @@ http://localhost:8080/
 
 10. Тест
 
-<p align="center">
-  <img src="Home.jpg" alt="Image" style="width: 500px; height: 500px; border: 10px solid red;">
+<p align="center" style="border: 2px solid red; padding: 5px;">
+  <img src="Home.jpg" alt="Image" style="width: 200px; height: 200px;">
 </p>
+
 
 
 
