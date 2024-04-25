@@ -141,6 +141,11 @@ http://localhost:8080/
 
 ![Стартовая страница](adminreductResult.jpg)  
 
+10. Тест
+
+![Описание изображения](Home.jpg){: style="border: 2px solid red;"}
+
+
 
     
 
