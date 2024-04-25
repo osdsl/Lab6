@@ -143,7 +143,10 @@ http://localhost:8080/
 
 10. Тест
 
-![Описание изображения](Home.jpg){: style="border: 2px solid red;"}
+<p align="center">
+  <img src="Home.jpg" alt="Image" style="width: 200px; height: 200px; border: 2px solid red;">
+</p>
+
 
 
 
